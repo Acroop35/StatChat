@@ -81,3 +81,27 @@ body {
 #messageInput {
   resize: none;
 }
+
+/* Make the whole page fill screen */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+/* Main layout wrapper (if you have one) */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Chat container that holds messages */
+#messages {
+    height: calc(100vh - 180px); /* adjust if needed */
+    overflow-y: auto;
+    padding: 10px;
+}
+
+/* Optional: smoother scrolling */
+#messages {
+    scroll-behavior: smooth;
+}

@@ -12,5 +12,173 @@
         "role": "assistant",
         "content": "I'm functioning well, thank you! How can I assist you today?",
         "created_at": "2026-03-11 02:24:28"
+    },
+    {
+        "id": 3,
+        "conversation_id": 2,
+        "role": "user",
+        "content": "What was the last lakers game?",
+        "created_at": "2026-04-27 01:25:29"
+    },
+    {
+        "id": 4,
+        "conversation_id": 2,
+        "role": "assistant",
+        "content": "I'm unable to access the most recent Lakers game details from the current season. If you want information from previous seasons (2022-2024), let me know!",
+        "created_at": "2026-04-27 01:25:35"
+    },
+    {
+        "id": 5,
+        "conversation_id": 3,
+        "role": "user",
+        "content": "what was the last sixers game?",
+        "created_at": "2026-04-27 01:28:50"
+    },
+    {
+        "id": 6,
+        "conversation_id": 3,
+        "role": "assistant",
+        "content": "It seems there was an issue finding the team \"Sixers.\" Let me know if you want information about the Philadelphia 76ers, and I can try again!",
+        "created_at": "2026-04-27 01:28:54"
+    },
+    {
+        "id": 7,
+        "conversation_id": 3,
+        "role": "user",
+        "content": "Yes what was the score of the last Philadelphia 76ers game",
+        "created_at": "2026-04-27 01:29:26"
+    },
+    {
+        "id": 8,
+        "conversation_id": 3,
+        "role": "assistant",
+        "content": "It seems there was an issue retrieving the last game data for the Philadelphia 76ers. Unfortunately, the specific details aren't accessible at this time. You might want to check a sports website or app for the latest information. Let me know if there's anything else I can assist you with!",
+        "created_at": "2026-04-27 01:29:30"
+    },
+    {
+        "id": 9,
+        "conversation_id": 4,
+        "role": "user",
+        "content": "when was the last sixers game?",
+        "created_at": "2026-04-27 01:31:35"
+    },
+    {
+        "id": 10,
+        "conversation_id": 4,
+        "role": "assistant",
+        "content": "I couldn't retrieve the specific details of the last Sixers game due to data restrictions. Please check your local sports news or official NBA sources for the latest game information.",
+        "created_at": "2026-04-27 01:31:39"
+    },
+    {
+        "id": 11,
+        "conversation_id": 5,
+        "role": "user",
+        "content": "what was the last lakers game?",
+        "created_at": "2026-04-27 01:40:59"
+    },
+    {
+        "id": 12,
+        "conversation_id": 5,
+        "role": "assistant",
+        "content": "The Los Angeles Lakers' last game was against the Minnesota Timberwolves. \n\n- **Date:** May 1, 2025\n- **Location:** crypto.com Arena, Los Angeles, CA\n- **Score:** Timberwolves 103, Lakers 96\n- **Status:** Finished\n\nThe Minnesota Timberwolves won the game.",
+        "created_at": "2026-04-27 01:41:02"
+    },
+    {
+        "id": 13,
+        "conversation_id": 5,
+        "role": "user",
+        "content": "what are the current stats of player VJ Edgecombe?",
+        "created_at": "2026-04-27 01:41:51"
+    },
+    {
+        "id": 14,
+        "conversation_id": 5,
+        "role": "assistant",
+        "content": "I couldn't find any current stats for a player named VJ Edgecombe in the NBA. It's possible they are not in the league or might be a less well-known player. Let me know if you need assistance with anything else!",
+        "created_at": "2026-04-27 01:41:54"
+    },
+    {
+        "id": 15,
+        "conversation_id": 5,
+        "role": "user",
+        "content": "What is the curent roster of the Philadelphia Eagles",
+        "created_at": "2026-04-27 01:42:35"
+    },
+    {
+        "id": 16,
+        "conversation_id": 5,
+        "role": "assistant",
+        "content": "I'm currently able to provide information only on NBA teams. If you have any questions about NBA teams or players, feel free to ask!",
+        "created_at": "2026-04-27 01:42:37"
+    },
+    {
+        "id": 17,
+        "conversation_id": 6,
+        "role": "user",
+        "content": "what is the roster of the Lakers",
+        "created_at": "2026-04-27 01:43:13"
+    },
+    {
+        "id": 18,
+        "conversation_id": 6,
+        "role": "assistant",
+        "content": "I'm currently unable to provide the roster details. You can check the official team website or sports news outlets for up-to-date roster information.",
+        "created_at": "2026-04-27 01:43:16"
+    },
+    {
+        "id": 19,
+        "conversation_id": 7,
+        "role": "user",
+        "content": "hello?",
+        "created_at": "2026-04-27 01:59:08"
+    },
+    {
+        "id": 20,
+        "conversation_id": 7,
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?",
+        "created_at": "2026-04-27 01:59:09"
+    },
+    {
+        "id": 21,
+        "conversation_id": 7,
+        "role": "user",
+        "content": "what was the last lakers game?",
+        "created_at": "2026-04-27 01:59:18"
+    },
+    {
+        "id": 22,
+        "conversation_id": 7,
+        "role": "assistant",
+        "content": "The last game for the Los Angeles Lakers was against the Minnesota Timberwolves. Here are the details:\n\n- **Date:** May 1, 2025\n- **Location:** crypto.com Arena, Los Angeles, CA\n- **Score:** Timberwolves 103, Lakers 96\n- **Status:** Finished\n\nThe Minnesota Timberwolves won the game.",
+        "created_at": "2026-04-27 01:59:22"
+    },
+    {
+        "id": 23,
+        "conversation_id": 8,
+        "role": "user",
+        "content": "What was the last phillies game",
+        "created_at": "2026-04-27 02:10:28"
+    },
+    {
+        "id": 24,
+        "conversation_id": 8,
+        "role": "assistant",
+        "content": "The last game for the Philadelphia Phillies was on October 9, 2024, against the New York Mets.\n\n- **Teams**: Philadelphia Phillies vs. New York Mets\n- **Score**: Phillies 1, Mets 4\n- **Game Status**: Finished\n- **Winner**: New York Mets\n\nThe game was part of the MLB Quarter-finals.",
+        "created_at": "2026-04-27 02:10:33"
+    },
+    {
+        "id": 25,
+        "conversation_id": 8,
+        "role": "user",
+        "content": "what is the roster of the Phillies",
+        "created_at": "2026-04-27 02:10:49"
+    },
+    {
+        "id": 26,
+        "conversation_id": 8,
+        "role": "assistant",
+        "content": "I'm unable to access the Philadelphia Phillies roster at the moment. However, you can visit the official Phillies website for the most up-to-date roster information. If there's anything else you need, feel free to ask!",
+        "created_at": "2026-04-27 02:10:51"
     }
 ]
